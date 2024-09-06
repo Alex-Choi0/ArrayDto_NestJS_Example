@@ -24,6 +24,7 @@
 
 ## Description
 
+[Blog](https://engineeringshw.blogspot.com/2024/09/nestjs-swagger-body-element.html) DTO 배열로 저장하는 예제 코드 블로그 링크\
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
